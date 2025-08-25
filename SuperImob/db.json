@@ -1,0 +1,62 @@
+{
+     "imoveis": [
+          {
+               "id": 1,
+               "titulo": "Apartamento Moderno no Centro",
+               "descricao": "Um incrível apartamento com 3 quartos, 2 banheiros e uma vista espetacular da cidade. Totalmente mobiliado e pronto para morar.",
+               "tipo": "aluguel",
+               "preco": 3500.00,
+               "localizacao": {
+                    "endereco": "Rua Principal, 123",
+                    "cidade": "São Paulo",
+                    "estado": "SP"
+               },
+               "quartos": 3,
+               "banheiros": 2,
+               "area": 120,
+               "imagens": [
+                    "https://picsum.photos/seed/imovel1-1/800/600",
+                    "https://picsum.photos/seed/imovel1-2/800/600",
+                    "https://picsum.photos/seed/imovel1-3/800/600"
+               ]
+          },
+          {
+               "id": 2,
+               "titulo": "Casa Espaçosa com Piscina",
+               "descricao": "Casa de luxo em condomínio fechado. Possui 4 suítes, área de lazer completa com piscina e churrasqueira. Perfeita para a sua família.",
+               "tipo": "venda",
+               "preco": 1200000.00,
+               "localizacao": {
+                    "endereco": "Avenida dos Sonhos, 456",
+                    "cidade": "Campinas",
+                    "estado": "SP"
+               },
+               "quartos": 4,
+               "banheiros": 5,
+               "area": 300,
+               "imagens": [
+                    "https://picsum.photos/seed/imovel2-1/800/600",
+                    "https://picsum.photos/seed/imovel2-2/800/600",
+                    "https://picsum.photos/seed/imovel2-3/800/600"
+               ]
+          },
+          {
+               "id": 3,
+               "titulo": "Kitnet Aconchegante Perto da Universidade",
+               "descricao": "Ótima kitnet para estudantes, localizada a 5 minutos da universidade. Ambiente seguro e tranquilo.",
+               "tipo": "aluguel",
+               "preco": 950.00,
+               "localizacao": {
+                    "endereco": "Rua dos Estudantes, 789",
+                    "cidade": "Belo Horizonte",
+                    "estado": "MG"
+               },
+               "quartos": 1,
+               "banheiros": 1,
+               "area": 35,
+               "imagens": [
+                    "https://picsum.photos/seed/imovel3-1/800/600"
+               ]
+          }
+     ]
+}
